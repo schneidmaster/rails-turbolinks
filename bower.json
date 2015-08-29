@@ -1,0 +1,22 @@
+{
+  "name": "rails-turbolinks",
+  "version": "2.5.2",
+  "homepage": "https://github.com/schneidmaster/rails-turbolinks",
+  "authors": [
+    "Zach Schneider <schneidmaster@gmail.com>"
+  ],
+  "description": "Turbolinks makes following links in your web application faster (use with Rails Asset Pipeline)",
+  "main": "turbolinks/lib/assets/javascripts/turbolinks",
+  "keywords": [
+    "rails",
+    "turbolinks"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
